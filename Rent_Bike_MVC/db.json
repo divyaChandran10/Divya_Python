@@ -1,0 +1,141 @@
+[
+    {
+        "Clients": [
+            {
+                "Name": "CName1",
+                "email": "Name1@gmail",
+                "address": "Address 1"
+            },
+            {
+                "Name": "CName2",
+                "email": "Name2@gmail",
+                "address": "Address 2"
+            },
+            {
+                "Name": "CName3",
+                "email": "Name3@gmail",
+                "address": "Address 3"
+            },
+            {
+                "Name": "CName4",
+                "email": "Name4@gmail",
+                "address": "Address 4"
+            },
+            {
+                "Name": "CName5",
+                "email": "Name5@email",
+                "address": "address 5"
+            },
+            {
+                "Name": "Divya",
+                "email": "div@email",
+                "address": "Addree 56"
+            },
+            {
+                "Name": "john",
+                "email": "john@email",
+                "address": "addr 5"
+            },
+            {
+                "Name": "Kya",
+                "email": "kya@gmail",
+                "address": "aqw 4"
+            },
+            {
+                "Name": "lali",
+                "email": "lal@mail",
+                "address": "aqw11 "
+            },
+            {
+                "Name": "super",
+                "email": "super@email",
+                "address": "as 21"
+            },
+            {
+                "Name": "new",
+                "email": "email",
+                "address": "asdfr 45"
+            }
+        ]
+    },
+    {
+        "Partners": [
+            {
+                "Name": "PName1",
+                "email": "Name1@gmail",
+                "Bike_ID": 1
+            },
+            {
+                "Name": "PName1",
+                "email": "Name1@gmail",
+                "Bike_ID": 2
+            },
+            {
+                "Name": "PName3",
+                "email": "Name3@gmail",
+                "Bike_ID": 3
+            },
+            {
+                "Name": "PName3",
+                "email": "Name3@gmail",
+                "Bike_ID": 4
+            }
+        ]
+    },
+    {
+        "Bikes": [
+            {
+                "Bike_ID": 1,
+                "Year": 2009,
+                "Manufacturer": "yamaha",
+                "Type": "ABC",
+                "Status": "Not_Available"
+            },
+            {
+                "Bike_ID": 2,
+                "Year": 2009,
+                "Manufacturer": "yamaha",
+                "Type": "ABC",
+                "Status": "Available"
+            },
+            {
+                "Bike_ID": 3,
+                "Year": 2009,
+                "Manufacturer": "yamaha",
+                "Type": "ABC",
+                "Status": "Available"
+            },
+            {
+                "Bike_ID": 4,
+                "Year": 2009,
+                "Manufacturer": "yamaha",
+                "Type": "ABC",
+                "Status": "Available"
+            }
+        ]
+    },
+    {
+        "Bills": [
+            {
+                "Bill_ID": "email",
+                "Bike_ID": 1,
+                "Status": "Pending",
+                "Amount": 4.0
+            },
+            {
+                "Bill_ID": "email",
+                "Bike_ID": 2,
+                "Status": "Closed",
+                "Amount": 4.0
+            }
+        ]
+    },
+    {
+        "Rent": [
+            {
+                "Bill_ID": "email",
+                "Bike_ID": 2
+            }
+        ]
+    }
+]
